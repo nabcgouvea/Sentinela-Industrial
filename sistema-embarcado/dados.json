@@ -1,0 +1,22 @@
+{
+  "Usuarios": {
+    "mFxc9nE434dIrGA4QeCeu4fVnn73": {
+      "Escrita": {
+        "Buzzer": false,
+        "Ledazul": false,
+        "Ledvermelho": false
+      },
+      "Leitura": {
+        "1": {
+          "Temperatura": 20.3,
+          "Luminosidade": 120,
+          "Umidade": 10
+        }
+      },
+      "Perfil": {
+        "nome": "Nelson",
+        "sobrenome": "Chíxaro"
+      }
+    }
+  }
+}
