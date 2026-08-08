@@ -22,7 +22,7 @@ A arquitetura do projeto utiliza o padrão de rotas do **Next.js (App Router)** 
 
 ## Acesso Online
 Você pode acessar a versão de produção do sistema através do link:
-👉 [**https://seu-link-da-vercel.vercel.app**](https://seu-link-da-vercel.vercel.app)
+👉 [**https://seu-link-da-vercel.vercel.app**]([https://seu-link-da-vercel.vercel.app](https://sentinela-industrial.vercel.app/))
 
 
 ---
